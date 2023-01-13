@@ -2,6 +2,9 @@
 
 In this breakout session, you'll have an opportunity to review the content you've learned already in preparation for your upcoming Tech Interviews. For this breakout, be ready to share any questions that you have relating to Tech Interviews.
 
+## Breakout Recording
+https://vimeo.com/786436041/9757364af6
+
 ### 1. Tools and Technologies
 ---
 #### 1.1 Git & Github
